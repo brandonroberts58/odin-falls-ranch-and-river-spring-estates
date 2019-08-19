@@ -495,6 +495,10 @@ input[type="submit"] {
     background-color: #2F4354;
     color: white;
 }
+.spotlight-group a {
+    text-decoration: none;
+    display: inline;
+}
 .featured-blocks {
     display: block;
     width: 100%;
@@ -725,6 +729,13 @@ input, textarea {
 input[type="submit"] {
     background-color: #2F4354;
     color: white;
+}
+.spotlight-group a {
+    text-decoration: none;
+    display: inline;
+}
+.spotlight-group img {
+    width: 45%;
 }
 .featured-blocks {
     display: block;
