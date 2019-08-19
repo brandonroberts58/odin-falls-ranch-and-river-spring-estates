@@ -690,7 +690,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: bottom center;
+    background-position: center top;
     width: 100%;
 }
 .body-section-1 {
