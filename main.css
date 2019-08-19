@@ -687,7 +687,7 @@ header {
 body {
     margin: 0 auto;
     background-image: url("images/body-bg-img.png");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: bottom center;
